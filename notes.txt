@@ -1,0 +1,9 @@
+Please give the 4 command line arguments in the following order: 
+	-source folder path, 
+	-replica folder path, 
+	-synch period (seconds),
+	-logs folder path
+
+Ex:
+
+> python challengeVEEAM.py C:\Users\jose\Desktop\ChallengeVEEAM\Source C:\Users\jose\Desktop\ChallengeVEEAM\Replica 2 C:\Users\jose\Desktop\ChallengeVEEAM\Logs
